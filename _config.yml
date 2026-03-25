@@ -25,8 +25,8 @@ author:
   # Biographic information
   avatar           : "IMG_8623.jpeg"
   name             : "Xinhan Zhao"
-  pronouns         : # example: "he/him"  
-  bio              : "Senior student at Southeast University"
+  pronouns         : "he/him"# example: "he/him"  
+  bio              : "Junior student at Southeast University"
   location         : "Nanking"
   employer         : "Southeast University"
   uri              : https://henryzhao1126.github.io
@@ -52,19 +52,19 @@ author:
   codepen          : # Username
   dribbble         : # Username
   github           : "henryzhao1126"
-  kaggle           : # Username  
+  kaggle           : "Xavihan_Zhao1126"# Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : #"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "zhaohenry1126"# Username
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -72,15 +72,15 @@ author:
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
-  telegram         : # URL
+  telegram         : "(+1)510-809-7270"# URL
   tumblr           : # Username
   twitter          : # Username for X / Twitter
   vine             : # Username
-  weibo            : # Username
+  weibo            : "千岩万壑不辞劳的TSR樗雪子"# Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
-  zhihu            : # Username
+  youtube          : “@XinhanZhao”# Username
+  zhihu            : "TSR419"# Username
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
